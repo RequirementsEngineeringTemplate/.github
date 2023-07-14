@@ -6,7 +6,7 @@ Used to hold material and work as a template for organizing software projects. S
   4. Other artifacts used in SDLC process
   5. YAML code and scripting to show automation processes
 
-Focus is on DevOps and Agile methodologies using a Suite (github) to facilitate automation.
+Focus is on DevOps and Agile methodologies using a CASE Tool (github) to facilitate automation.
 
 Maintainer and Founder
 Josiah Greenwell
